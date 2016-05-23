@@ -4,4 +4,4 @@
 
 詳細は以下のWikiをご覧ください。
 
-https://github.com/aimluck/server-walkthrogh/wiki
+https://github.com/towninc/server-walkthrough/wiki
