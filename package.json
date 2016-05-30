@@ -1,0 +1,7 @@
+{
+  "name": "server-walkthrough",
+  "version": "1.0.0",
+  "dependencies": {
+    "doctoc": "^1.0.0"
+  }
+}
